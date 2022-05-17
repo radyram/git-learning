@@ -1,1 +1,3 @@
 file changed before first commit
+
+this file is being changed after first commit
