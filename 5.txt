@@ -1,8 +1,0 @@
-afsdfsdasjkjlkjkjlkjkjklj
-<<<<<<< HEAD
-
-
-asdfasf
-=======
-afsdjkjlkjlkjlkj
->>>>>>> newBranch
